@@ -1,0 +1,8 @@
+name = "cdflib"
+version = "0.1.0"
+license = "license"
+author = "pmarg"
+maintainer = "pmargaris.ac@gmail.com"
+copyright = "Copyright 2025, pmarg"
+default = false
+
